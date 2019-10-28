@@ -6,7 +6,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "News"
-      href: outreach.html      
+      href: news.html      
     - text: "Tutorial"
       href: tutorial.html  
       
