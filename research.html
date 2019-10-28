@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 64px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h2 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h3 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h4 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h5 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h6 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Yini Zhang</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="outreach.html">Outreach</a>
+</li>
+<li>
+  <a href="tutorial.html">Tutorial</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="contact.html">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/yinizhang2011">
+    <span class="fa fa-twitter fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<p>My research concerns how the abundance and interconnectedness of the digital media system shape the shifting communication ecology. My current research program consists of three parts: 1) how actors drive attention toward and thus amplify a certain object; 2) how citizen expression on social media interacts with other parts of the media system; and 3) how computational techniques can be harnessed and developed to facilitate communication research.</p>
+<p><strong>PUBLICATIONS</strong></p>
+<p>Zhang, Y., Shah, D., Foley, J., Abhishek, A., Lukito, J., Suk, J., Kim, S., Sun, Z., Pevehouse, J., &amp; Garlough, C. (2019). Whose Lives Matter? Mass Shootings and Social Media Discourses of Sympathy and Policy, 2012-2014. Journal of Computer-Mediated Communication. <a href="https://doi.org/10.1093/jcmc/zmz009" class="uri">https://doi.org/10.1093/jcmc/zmz009</a></p>
+<p>Suk, J., Abhishek, A., Zhang, Y., Ahn, S.Y., Correa, T., Garlough, C. &amp; Shah, D. (2019). #MeToo, Networked Acknowledgement, and Connective Action: How “Empowerment Through Empathy” Launched a Social Movement. Social Science Computer Review. <a href="https://doi.org/10.1177/0894439319864882" class="uri">https://doi.org/10.1177/0894439319864882</a></p>
+<p>Xia, Y., Lukito, J., Zhang, Y., Wells, C., Kim, S., &amp; Tong, C. (2019). Disinformation, performed: Self-presentation of a Russian IRA account on Twitter. Information, Communication and Society. <a href="https://doi.org/10.1080/1369118X.2019.1621921" class="uri">https://doi.org/10.1080/1369118X.2019.1621921</a></p>
+<p>Lukito, J., Wells, C., Zhang, Y., Doroshenko, L., Kim, S.J., S, M.H., Suk, J., Xia, Y. &amp; Freelon, D. (2018). The Twitter Exploit: How Russian Propaganda Infiltrated U.S. News. [White paper]. Retrieved April 27, 2018, from University of Wisconsin Madison: <a href="https://uwmadison.box.com/v/TwitterExploit" class="uri">https://uwmadison.box.com/v/TwitterExploit</a></p>
+<p>Zhang, Y., Wells, C., Wang, S. &amp; Rohe, K. (2018). Attention and amplification in the hybrid media system: The composition and activity of Donald Trump’s Twitter following during the 2016 presidential election. New Media &amp; Society. <a href="https://doi.org/10.1177/1461444817744390" class="uri">https://doi.org/10.1177/1461444817744390</a></p>
+<p>Zhang, Y., Wang, Y., Foley, J., Suk, J., &amp; Conathan, D. (2017, July). Tweeting Mass Shootings: The Dynamics of Issue Attention on Social Media. In Proceedings of the 8th International Conference on Social Media &amp; Society (p. 59). ACM.</p>
+<p><strong>MANUSCRIPTS UNDER REVIEW &amp; IN PREPARATION</strong></p>
+<p>Zhang, Y., Lukito J., Su, M-H., Suk, J., Xia, Y., Kim, S., Doroshenko, L., Song, W. &amp; Wells, C. (submitted to Political Communication) Assembling Social Media Following through Polarized Publics and Media: How Russian IRA Accounts Gained Influence in the 2016 U.S. Election Cycle.</p>
+<p>Wells, C., Zhang, Y., Lukito, J. &amp; Pevehouse, J. (R&amp;R at Mass Communication &amp; Society) The formation of attentive publics in the hybrid media system: How Donald Trump assembled his amplification machine.</p>
+<p>Chen, F., Zhang, Y. &amp; Rohe, K. (R&amp;R at Journal of the Royal Statistical Society) Targeted sampling from massive Blockmodel graphs with personalized PageRank.</p>
+<p>Lukito J., Suk, J., Zhang, Y., Doroshenko, L., Kim, S. J., Su, M-H., Xia, Y., Freelon, D., &amp; Wells C. (R&amp;R at International Journal of Press/Politics) Hacking the Message Amplification Cycle: How Russia Infiltrated American Political Journalism.</p>
+<p>Pelled, A., Lukito, J., Foley, J., Zhang, Y., Sun, Z., Vitolo-Haddad, C., Pevehouse, J., &amp; Shah, D. (submitted to IJOC). Death across the news spectrum: A time series analysis of partisan coverage following mass shootings in the U.S.</p>
+<p>Zhang, Y., Shah, D., Valenzuela, S. &amp; Pevehouse, J. (manuscript in preparation) Mass Shootings and the Hybrid and Polarized Media System: Evidence of a Shifting Communication Ecology</p>
+<p>Zhang, Y., Chen, F. &amp; Rohe, K. (manuscript in preparation) Tracking Networked Public Opinion Through Flocks.</p>
+<p>Zhang, Y. &amp; Wang, Y. (manuscript in preparation) When Others “Like” It: The Effect of Social Media Metrics on Perception of Media bias.</p>
+<p>Chen, F., Zhang, Y. &amp; Rohe, K. (manuscript in preparation) Sampling content from large corpus with personalized PageRank and latent Dirichlet allocation.</p>
+<p>Gunther, A., Pelled, A., Zhang, Y., Su, M-H., Wang, Y. &amp; Graves, L. (manuscript in preparation) Biased but Believable: Effect of Fact Checks on Partisan Opinion.</p>
+<p><strong>CONFERENCE PRESENTATIONS</strong></p>
+<p>Suk, J., Abhishek, A., Zhang, Y. &amp; Ahn, S.Y.. (2019). A Temporal Analysis of the #MeToo Movement Discourses. Paper presented at the 2019 Annual International Communication Association (ICA) Conference, Washington D.C, USA.</p>
+<p>Zhang, Y., Shah, D., Foley, J., Abhishek, A., Pevehouse, J., Lukito, J., Kim, S., Suk, J., Yang, F. &amp; Garlough C. (2018). The Features of Tragedy, Expressions of Sympathy, and Debates over Policy: A Time Series Analysis of Mass Shootings and Social Media Discourses. Paper accepted for presentation at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech.</p>
+<p>Wells, C., Zhang, Y., Lukito, J. &amp; Pevehouse, J. (2018). The formation of attentive publics in the hybrid media system: How Donald Trump assembled his amplification machine. Paper accepted for presentation at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech.</p>
+<p>Suk, J, Zhang, Y., Lukito, J., Su, M. &amp; Foley, J. (2018). Tracing Twitter Buzz: Clustering Hashtags and Handles About Mass Shootings and Gun Control. Paper accepted for presentation at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech.</p>
+<p>Graves, L., Gunther, A., Pelled, A., Su, M., Wang, Y., &amp; Zhang, Y. (2018). Effects of Fact Checks on Partisan Beliefs and Perceptions of Bias. Paper accepted for presentation at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech.</p>
+<p>Gunther, A., Graves, L., Zhang, Y., Pelled, A., &amp; Wang, Y. (2017). Effects of Fact Checks on Partisan Beliefs and Perceptions of Bias. Paper presented at the 2017 Midwest Association for Public Opinion Research Conference.</p>
+<p>Yang, J., Sangari, A., Duncan, M., Zhang, Y., … &amp; Wu, Y. (2017). Obamacare and political polarization on Twitter: An application of machine learning and social network analysis. Paper accepted for presentation at the 2017 Annual International Communication Association (ICA) Conference, San Diego, CA.</p>
+<p>Zhang, Y., Wang, Y., Foley, J., Suk, J., &amp; Conathan, D. (2017). Tweeting Mass Shootings —The Dynamics of Issue Attention on Social Media. Paper accepted for presentation at the 2017 International Conference on Social Media and Society, Toronto, Canada.</p>
+<p>Zhang, Y. &amp; Wang, Y. (2016). When Others ‘like’ it: Hostile Media Effect in the Era of Social Media. Paper presented at the 2016 Midwest Association for Public Opinion Research Conference, Chicago, IL.</p>
+<p>Zhang, Y. (2016). The power of commenting? – Analyzing modes of Weibo users’ news comments in China. Paper presented at the 2016 Big Ten Mini-Conference, Iowa City, IA.</p>
+<p><em>Last updated: 2019 September</em></p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
