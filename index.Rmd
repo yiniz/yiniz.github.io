@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/YZ19.JPG" style="width:30%; border:5px solid; margin-right: 20px" align="left">
+<img src="images/YZ19.JPG" style="width:35%; border:5px solid; margin-right: 20px" align="left">
 
 I'm a Ph.D. candidate in the [School of Journalism & Mass Communication at the University of Wisconsin Madison](https://journalism.wisc.edu). My research concerns the processes and consequences of political communication in the hybrid media system, particularly the role of social media in shaping attention and opinion. I'm interested in analyses at micro, meso and macro levels. I have written academic articles about the assemblage of social media following, social media amplification of a certain object, social media response to contentious topics, hostile media perception in social media news consumption, and fact-check effects. The topical areas of those articles range from gun laws, mass shootings, the #MeToo movement, Donald Trump's social media following, to the Russian disinformation campaign. 
 
