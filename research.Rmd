@@ -8,9 +8,9 @@ Zhang, Y., Shah, D., Foley, J., Abhishek, A., Lukito, J., Suk, J., Kim, S., Sun,
 
 Wells, C., Zhang, Y., Lukito, J. & Pevehouse, J. (2019). The formation of attentive publics in the hybrid media system: How Donald Trump assembled his amplification machine. Mass Communication & Society. https://doi:10.1080/15205436.2019.1690664
 
-Chen, F., Zhang, Y. & Rohe, K. (forthcoming). Targeted sampling from massive Block- model graphs with personalized PageRank. Journal of the Royal Statistical Society.
+Chen, F., Zhang, Y., & Rohe, K. (2019). Targeted sampling from massive block model graphs with personalized PageRank. Journal of the Royal Statistical Society: Series B (Statistical Methodology).
 
-Lukito J., Suk, J., Zhang, Y., Doroshenko, L., Kim, S. J., Su, M-H., Xia, Y., Freelon, D., & Wells C. (forthcoming). Hacking the Message Amplification Cycle: How Russia Infiltrated American Political Journalism. International Journal of Press/Politics.
+Lukito, J., Suk, J., Zhang, Y., Doroshenko, L., Kim, S. J., Su, M. H., ... & Wells, C. (2019). The Wolves in Sheep’s Clothing: How Russia’s Internet Research Agency Tweets Appeared in US News as Vox Populi. The International Journal of Press/Politics, 1940161219895215.
 
 Suk, J., Abhishek, A., Zhang, Y., Ahn, S.Y., Correa, T., Garlough, C. & Shah, D. (2019). #MeToo, Networked Acknowledgement, and Connective Action: How “Empowerment Through Empathy” Launched a Social Movement. Social Science Computer Review. https://doi.org/10.1177/0894439319864882 
 
@@ -24,13 +24,13 @@ Zhang, Y., Wang, Y., Foley, J., Suk, J., & Conathan, D. (2017, July). Tweeting M
 
 **MANUSCRIPTS UNDER REVIEW & IN PREPARATION**
 
-Zhang, Y., Lukito J., Su, M-H., Suk, J., Xia, Y., Kim, S., Doroshenko, L., Song, W. & Wells, C. (submitted to Political Communication) Assembling Social Media Following through Polarized Publics and Media: How Russian IRA Accounts Gained Influence in the 2016 U.S. Election Cycle.
+Zhang, Y., Lukito J., Su, M-H., Suk, J., Xia, Y., Kim, S., Doroshenko, L., Song, W. & Wells, C. Assembling Social Media Following through Polarized Publics and Media: How Russian IRA Accounts Gained Influence in the 2016 U.S. Election Cycle.
 
-Pelled, A., Lukito, J., Foley, J., Zhang, Y., Sun, Z., Vitolo-Haddad, C., Pevehouse, J., & Shah, D. (submitted to IJOC). Death across the news spectrum: A time series analysis of partisan coverage following mass shootings in the U.S. 
+Pelled, A., Lukito, J., Foley, J., Zhang, Y., Sun, Z., Vitolo-Haddad, C., Pevehouse, J., & Shah, D. Death across the news spectrum: A time series analysis of partisan coverage following mass shootings in the U.S. 
 
 Zhang, Y., Shah, D., Valenzuela, S. &  Pevehouse, J. (manuscript in preparation) Mass Shootings and the Hybrid and Polarized Media System: Evidence of a Shifting Communication Ecology
 
-Zhang, Y., Chen, F. & Rohe, K. (manuscript in preparation) Tracking Networked Public Opinion Through Flocks.
+Zhang, Y., Chen, F. & Rohe, K. (manuscript in preparation) Networked Public Opinion Through as Flocks in a Murmuration.
 
 Zhang, Y. & Wang, Y. (manuscript in preparation) When Others “Like” It: The Effect of Social Media Metrics on Perception of Media bias.
 

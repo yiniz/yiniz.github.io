@@ -12,4 +12,6 @@ Books that have greatly influenced me in my formative years at SJMC include John
 
 Apart from doing research, I like hiking in the many great mountains of Colorado, traveling around the states, doing Zumba, cooking comfort food, and watching talks shows, movies and TV series. The incomplete list of my favorite TV series includes Westworld, Silicon Valley, Games of Thrones, True Detective, Fargo, and many more. I used to be a big fan of classical and rock music, but as I age I find myself gravitating toward podcasts, something I enjoy listening during my daily commute. 
 
-My full CV is available [here](files/Zhang_CV.pdf).
+**My full CV is available [here](files/Zhang_CV.pdf).**
+
+*This website was created using Emily C. Zabor's amazing tutorial https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html*
