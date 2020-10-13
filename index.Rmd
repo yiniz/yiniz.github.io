@@ -2,7 +2,7 @@
 
 <img src="images/YZ19.JPG" style="width:30%; border:5px solid; margin-right: 20px" align="left">
 
-I'm a Ph.D. candidate in the [School of Journalism & Mass Communication at the University of Wisconsin Madison](https://journalism.wisc.edu). My research concerns the processes and consequences of communication in the hybrid media system, particularly the role of social media in shaping public attention and public opinion. I'm interested in analyses at micro, meso and macro levels. I have written academic articles about the assemblage of social media following, social media amplification of a certain object, social media response to contentious topics, social media public opinion, hostile media perception in social media news consumption, and fact-check effects. The topical areas of those articles range from gun laws, mass shootings, the #MeToo movement, Donald Trump's social media following, to the Russian disinformation campaign. 
+I'm an assistant professor in the [Department of Communication](http://www.buffalo.edu/cas/communication.html) at the University at Buffalo. I graduated with a Ph.D. in mass communication from the [School of Journalism & Mass Communication at the University of Wisconsin Madison](https://journalism.wisc.edu). My research concerns the processes and consequences of communication in the hybrid media system, particularly the role of social media in shaping public attention and public opinion. I'm interested in analyses at micro, meso and macro levels. I have written academic articles about the assemblage of social media following, social media amplification of a certain object, social media response to contentious topics, social media public opinion, hostile media perception in social media news consumption, and fact-check effects. The topical areas of those articles range from gun laws, mass shootings, the #MeToo movement, Donald Trump's social media following, to the Russian disinformation campaign. 
 
 The methods I use in my research are mostly computational, though I am also conversant with survey and experimental methods. I am able to independently collect large Twitter datasets through its APIs, conduct automated text analysis using unsupervised and supervised machine learning, perform community detection via various clustering techniques, and run time series modeling. Besides using existing computational methods, I also develop innovative methods in collaboration with colleagues from other disciplines to facilitate communication research. 
 
@@ -12,6 +12,6 @@ Books that have greatly influenced me in my formative years at SJMC include John
 
 Apart from doing research, I like hiking in the many great mountains of Colorado, traveling around the states, doing Zumba, cooking comfort food, and watching talks shows, movies and TV series. The incomplete list of my favorite TV series includes Westworld, Silicon Valley, Games of Thrones, True Detective, Fargo, and many more. I used to be a big fan of classical and rock music, but as I age I find myself gravitating toward podcasts, something I enjoy listening during my daily commute. 
 
-**My full CV is available [here](files/Zhang_CV.pdf).**
+**My full CV is available [here](files/YiniZHANG_CV.pdf).**
 
 *This website was created using Emily C. Zabor's amazing tutorial https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html*
