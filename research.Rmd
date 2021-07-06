@@ -4,64 +4,64 @@ My research concerns how the abundance and interconnectedness of the digital med
 
 Here's a link to [my Google Scholar](https://scholar.google.com/citations?user=OQqFZoEAAAAJ&hl=en).
 
-**PUBLICATIONS**
+<!-- **PUBLICATIONS** -->
 
-Zhang, Y., Shah, D., Foley, J., Abhishek, A., Lukito, J., Suk, J., Kim, S., Sun, Z., Pevehouse, J., & Garlough, C. (2019). Whose Lives Matter? Mass Shootings and Social Media Discourses of Sympathy and Policy, 2012-2014. Journal of Computer-Mediated Communication. https://doi.org/10.1093/jcmc/zmz009 
+<!-- Zhang, Y., Shah, D., Foley, J., Abhishek, A., Lukito, J., Suk, J., Kim, S., Sun, Z., Pevehouse, J., & Garlough, C. (2019). Whose Lives Matter? Mass Shootings and Social Media Discourses of Sympathy and Policy, 2012-2014. Journal of Computer-Mediated Communication. https://doi.org/10.1093/jcmc/zmz009  -->
 
-Wells, C., Zhang, Y., Lukito, J. & Pevehouse, J. (2019). The formation of attentive publics in the hybrid media system: How Donald Trump assembled his amplification machine. Mass Communication & Society. https://doi:10.1080/15205436.2019.1690664
+<!-- Wells, C., Zhang, Y., Lukito, J. & Pevehouse, J. (2019). The formation of attentive publics in the hybrid media system: How Donald Trump assembled his amplification machine. Mass Communication & Society. https://doi:10.1080/15205436.2019.1690664 -->
 
-Chen, F., Zhang, Y., & Rohe, K. (2019). Targeted sampling from massive block model graphs with personalized PageRank. Journal of the Royal Statistical Society: Series B (Statistical Methodology).
+<!-- Chen, F., Zhang, Y., & Rohe, K. (2019). Targeted sampling from massive block model graphs with personalized PageRank. Journal of the Royal Statistical Society: Series B (Statistical Methodology). -->
 
-Lukito, J., Suk, J., Zhang, Y., Doroshenko, L., Kim, S. J., Su, M. H., ... & Wells, C. (2019). The Wolves in Sheep’s Clothing: How Russia’s Internet Research Agency Tweets Appeared in US News as Vox Populi. The International Journal of Press/Politics, 1940161219895215.
+<!-- Lukito, J., Suk, J., Zhang, Y., Doroshenko, L., Kim, S. J., Su, M. H., ... & Wells, C. (2019). The Wolves in Sheep’s Clothing: How Russia’s Internet Research Agency Tweets Appeared in US News as Vox Populi. The International Journal of Press/Politics, 1940161219895215. -->
 
-Suk, J., Abhishek, A., Zhang, Y., Ahn, S.Y., Correa, T., Garlough, C. & Shah, D. (2019). #MeToo, Networked Acknowledgement, and Connective Action: How “Empowerment Through Empathy” Launched a Social Movement. Social Science Computer Review. https://doi.org/10.1177/0894439319864882 
+<!-- Suk, J., Abhishek, A., Zhang, Y., Ahn, S.Y., Correa, T., Garlough, C. & Shah, D. (2019). #MeToo, Networked Acknowledgement, and Connective Action: How “Empowerment Through Empathy” Launched a Social Movement. Social Science Computer Review. https://doi.org/10.1177/0894439319864882  -->
 
-Xia, Y., Lukito, J., Zhang, Y., Wells, C., Kim, S., & Tong, C. (2019). Disinformation, performed: Self-presentation of a Russian IRA account on Twitter. Information, Communication and Society. https://doi.org/10.1080/1369118X.2019.1621921 
+<!-- Xia, Y., Lukito, J., Zhang, Y., Wells, C., Kim, S., & Tong, C. (2019). Disinformation, performed: Self-presentation of a Russian IRA account on Twitter. Information, Communication and Society. https://doi.org/10.1080/1369118X.2019.1621921  -->
 
-Lukito, J., Wells, C., Zhang, Y., Doroshenko, L., Kim, S.J., S, M.H., Suk, J., Xia, Y. & Freelon, D. (2018). The Twitter Exploit: How Russian Propaganda Infiltrated U.S. News. [White paper]. Retrieved April 27, 2018, from University of Wisconsin Madison: https://uwmadison.box.com/v/TwitterExploit
+<!-- Lukito, J., Wells, C., Zhang, Y., Doroshenko, L., Kim, S.J., S, M.H., Suk, J., Xia, Y. & Freelon, D. (2018). The Twitter Exploit: How Russian Propaganda Infiltrated U.S. News. [White paper]. Retrieved April 27, 2018, from University of Wisconsin Madison: https://uwmadison.box.com/v/TwitterExploit -->
 
-Zhang, Y., Wells, C., Wang, S. & Rohe, K. (2018). Attention and amplification in the hybrid media system: The composition and activity of Donald Trump’s Twitter following during the 2016 presidential election. New Media & Society. https://doi.org/10.1177/1461444817744390
+<!-- Zhang, Y., Wells, C., Wang, S. & Rohe, K. (2018). Attention and amplification in the hybrid media system: The composition and activity of Donald Trump’s Twitter following during the 2016 presidential election. New Media & Society. https://doi.org/10.1177/1461444817744390 -->
 
-Zhang, Y., Wang, Y., Foley, J., Suk, J., & Conathan, D. (2017, July). Tweeting Mass Shootings: The Dynamics of Issue Attention on Social Media. In Proceedings of the 8th International Conference on Social Media & Society (p. 59). ACM.
+<!-- Zhang, Y., Wang, Y., Foley, J., Suk, J., & Conathan, D. (2017, July). Tweeting Mass Shootings: The Dynamics of Issue Attention on Social Media. In Proceedings of the 8th International Conference on Social Media & Society (p. 59). ACM. -->
 
-**MANUSCRIPTS UNDER REVIEW & IN PREPARATION**
+<!-- **MANUSCRIPTS UNDER REVIEW & IN PREPARATION** -->
 
-Zhang, Y., Lukito J., Su, M-H., Suk, J., Xia, Y., Kim, S., Doroshenko, L., Song, W. & Wells, C. Assembling Social Media Following through Polarized Publics and Media: How Russian IRA Accounts Gained Influence in the 2016 U.S. Election Cycle.
+<!-- Zhang, Y., Lukito J., Su, M-H., Suk, J., Xia, Y., Kim, S., Doroshenko, L., Song, W. & Wells, C. Assembling Social Media Following through Polarized Publics and Media: How Russian IRA Accounts Gained Influence in the 2016 U.S. Election Cycle. -->
 
-Pelled, A., Lukito, J., Foley, J., Zhang, Y., Sun, Z., Vitolo-Haddad, C., Pevehouse, J., & Shah, D. Death across the news spectrum: A time series analysis of partisan coverage following mass shootings in the U.S. 
+<!-- Pelled, A., Lukito, J., Foley, J., Zhang, Y., Sun, Z., Vitolo-Haddad, C., Pevehouse, J., & Shah, D. Death across the news spectrum: A time series analysis of partisan coverage following mass shootings in the U.S.  -->
 
-Zhang, Y., Shah, D., Valenzuela, S. &  Pevehouse, J. (manuscript in preparation) Mass Shootings and the Hybrid and Polarized Media System: Evidence of a Shifting Communication Ecology
+<!-- Zhang, Y., Shah, D., Valenzuela, S. &  Pevehouse, J. (manuscript in preparation) Mass Shootings and the Hybrid and Polarized Media System: Evidence of a Shifting Communication Ecology -->
 
-Zhang, Y., Chen, F. & Rohe, K. (manuscript in preparation) Networked Public Opinion Through as Flocks in a Murmuration.
+<!-- Zhang, Y., Chen, F. & Rohe, K. (manuscript in preparation) Networked Public Opinion Through as Flocks in a Murmuration. -->
 
-Zhang, Y. & Wang, Y. (manuscript in preparation) When Others “Like” It: The Effect of Social Media Metrics on Perception of Media bias.
+<!-- Zhang, Y. & Wang, Y. (manuscript in preparation) When Others “Like” It: The Effect of Social Media Metrics on Perception of Media bias. -->
 
-Chen, F., Zhang, Y. & Rohe, K. (manuscript in preparation) Sampling content from large corpus with personalized PageRank and latent Dirichlet allocation.
+<!-- Chen, F., Zhang, Y. & Rohe, K. (manuscript in preparation) Sampling content from large corpus with personalized PageRank and latent Dirichlet allocation. -->
 
-Gunther, A., Pelled, A., Zhang, Y., Su, M-H., Wang, Y. & Graves, L. (manuscript in preparation) Biased but Believable: Effect of Fact Checks on Partisan Opinion.
-
-
-**CONFERENCE PRESENTATIONS**
-
-Suk, J., Abhishek, A., Zhang, Y. & Ahn, S.Y.. (2019). A Temporal Analysis of the #MeToo Movement Discourses. Paper presented at the 2019 Annual International Communication Association (ICA) Conference, Washington D.C, USA.
+<!-- Gunther, A., Pelled, A., Zhang, Y., Su, M-H., Wang, Y. & Graves, L. (manuscript in preparation) Biased but Believable: Effect of Fact Checks on Partisan Opinion. -->
 
 
-Zhang, Y., Shah, D., Foley, J., Abhishek, A., Pevehouse, J., Lukito, J., Kim, S., Suk, J., Yang, F. & Garlough C. (2018). The Features of Tragedy, Expressions of Sympathy, and Debates over Policy: A Time Series Analysis of Mass Shootings and Social Media Discourses. Paper accepted for presentation at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech.
+<!-- **CONFERENCE PRESENTATIONS** -->
 
-Wells, C., Zhang, Y., Lukito, J. & Pevehouse, J. (2018). The formation of attentive publics in the hybrid media system: How Donald Trump assembled his amplification machine. Paper accepted for presentation at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech.
+<!-- Suk, J., Abhishek, A., Zhang, Y. & Ahn, S.Y.. (2019). A Temporal Analysis of the #MeToo Movement Discourses. Paper presented at the 2019 Annual International Communication Association (ICA) Conference, Washington D.C, USA. -->
 
-Suk, J, Zhang, Y., Lukito, J., Su, M. & Foley, J. (2018). Tracing Twitter Buzz: Clustering Hashtags and Handles About Mass Shootings and Gun Control. Paper accepted for presentation at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech.
 
-Graves, L., Gunther, A., Pelled, A., Su, M., Wang, Y., & Zhang, Y. (2018). Effects of Fact Checks on Partisan Beliefs and Perceptions of Bias. Paper accepted for presentation at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech.
+<!-- Zhang, Y., Shah, D., Foley, J., Abhishek, A., Pevehouse, J., Lukito, J., Kim, S., Suk, J., Yang, F. & Garlough C. (2018). The Features of Tragedy, Expressions of Sympathy, and Debates over Policy: A Time Series Analysis of Mass Shootings and Social Media Discourses. Paper accepted for presentation at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech. -->
 
-Gunther, A., Graves, L., Zhang, Y., Pelled, A., & Wang, Y. (2017). Effects of Fact Checks on Partisan Beliefs and Perceptions of Bias. Paper presented at the 2017 Midwest Association for Public Opinion Research Conference.
+<!-- Wells, C., Zhang, Y., Lukito, J. & Pevehouse, J. (2018). The formation of attentive publics in the hybrid media system: How Donald Trump assembled his amplification machine. Paper accepted for presentation at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech. -->
 
-Yang, J., Sangari, A., Duncan, M., Zhang, Y., ... & Wu, Y. (2017). Obamacare and political polarization on Twitter: An application of machine learning and social network analysis. Paper accepted for presentation at the 2017 Annual International Communication Association (ICA) Conference, San Diego, CA.
+<!-- Suk, J, Zhang, Y., Lukito, J., Su, M. & Foley, J. (2018). Tracing Twitter Buzz: Clustering Hashtags and Handles About Mass Shootings and Gun Control. Paper accepted for presentation at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech. -->
 
-Zhang, Y., Wang, Y., Foley, J., Suk, J., & Conathan, D. (2017). Tweeting Mass Shootings —The Dynamics of Issue Attention on Social Media. Paper accepted for presentation at the 2017 International Conference on Social Media and Society, Toronto, Canada.
+<!-- Graves, L., Gunther, A., Pelled, A., Su, M., Wang, Y., & Zhang, Y. (2018). Effects of Fact Checks on Partisan Beliefs and Perceptions of Bias. Paper accepted for presentation at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech. -->
 
-Zhang, Y. & Wang, Y. (2016). When Others ‘like’ it: Hostile Media Effect in the Era of Social Media. Paper presented at the 2016 Midwest Association for Public Opinion Research Conference, Chicago, IL.
+<!-- Gunther, A., Graves, L., Zhang, Y., Pelled, A., & Wang, Y. (2017). Effects of Fact Checks on Partisan Beliefs and Perceptions of Bias. Paper presented at the 2017 Midwest Association for Public Opinion Research Conference. -->
 
-Zhang, Y. (2016). The power of commenting? – Analyzing modes of Weibo users’ news comments in China. Paper presented at the 2016 Big Ten Mini-Conference, Iowa City, IA.
+<!-- Yang, J., Sangari, A., Duncan, M., Zhang, Y., ... & Wu, Y. (2017). Obamacare and political polarization on Twitter: An application of machine learning and social network analysis. Paper accepted for presentation at the 2017 Annual International Communication Association (ICA) Conference, San Diego, CA. -->
 
-*Last updated: 2019 September*
+<!-- Zhang, Y., Wang, Y., Foley, J., Suk, J., & Conathan, D. (2017). Tweeting Mass Shootings —The Dynamics of Issue Attention on Social Media. Paper accepted for presentation at the 2017 International Conference on Social Media and Society, Toronto, Canada. -->
+
+<!-- Zhang, Y. & Wang, Y. (2016). When Others ‘like’ it: Hostile Media Effect in the Era of Social Media. Paper presented at the 2016 Midwest Association for Public Opinion Research Conference, Chicago, IL. -->
+
+<!-- Zhang, Y. (2016). The power of commenting? – Analyzing modes of Weibo users’ news comments in China. Paper presented at the 2016 Big Ten Mini-Conference, Iowa City, IA. -->
+
+<!-- *Last updated: 2019 September* -->

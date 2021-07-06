@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-For me, conducting social science research means much more than finding answers to interesting questions. I believe that social science research should aim at improving the wellbeing of society by generating socially relevant knowledge and sharing it with the general public. I strive to do so through my own research.
+For me, conducting social science research means much more than finding answers to interesting questions. I believe that social science research should aim at improving the well-being of society by generating socially relevant knowledge and sharing it with the general public. I strive to do so through my own research.
 
 2019:
 
