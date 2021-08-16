@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-My research concerns how the abundance and interconnectedness of the digital media system shape the shifting communication ecology. My current research program consists of three parts: 1) how actors drive attention toward and thus amplify a certain object; 2) how citizen expression on social media interacts with other parts of the media system; and 3) how computational techniques can be harnessed and developed to facilitate communication research. 
+My research concerns how the abundance and interconnectedness of the hybrid media system shape the shifting communication ecology. My current research program consists of three parts: 1) investigating how people connect and communicate with each other on social media; 2) tracing communication flows across social and news media; and 3) developing computational techniques to facilitate communication research. 
 
 Here's a link to [my Google Scholar](https://scholar.google.com/citations?user=OQqFZoEAAAAJ&hl=en).
 
