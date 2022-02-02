@@ -5,9 +5,9 @@ navbar:
   left:
     - text: "Research"
       href: research.html
-    - text: "News"
-      href: news.html     
-      
+    # - text: "News"
+    #   href: news.html     
+    #   
     
   right:
     - icon: fa-envelope fa-lg
