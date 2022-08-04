@@ -13,8 +13,8 @@
 
 <title>research.knit</title>
 
-<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -235,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -244,9 +248,7 @@ $(document).ready(function () {
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li>
-  <a href="research.html">Research</a>
-</li>
+        
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
@@ -275,8 +277,15 @@ $(document).ready(function () {
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<p>My research concerns how the abundance and interconnectedness of the hybrid media system shape the shifting communication ecology. My current research program consists of three parts: 1) investigating how people connect and communicate with each other on social media; 2) tracing communication flows across social and news media; and 3) developing computational techniques to facilitate communication research.</p>
-<p>Here’s a link to <a href="https://scholar.google.com/citations?user=OQqFZoEAAAAJ&amp;hl=en">my Google Scholar</a>.</p>
+<p>My research concerns how the abundance and interconnectedness of the
+hybrid media system shape the shifting communication ecology. My current
+research program consists of three parts: 1) investigating how people
+connect and communicate with each other on social media; 2) tracing
+communication flows across social and news media; and 3) developing
+computational techniques to facilitate communication research.</p>
+<p>Here’s a link to <a
+href="https://scholar.google.com/citations?user=OQqFZoEAAAAJ&amp;hl=en">my
+Google Scholar</a>.</p>
 <!-- **PUBLICATIONS** -->
 <!-- Zhang, Y., Shah, D., Foley, J., Abhishek, A., Lukito, J., Suk, J., Kim, S., Sun, Z., Pevehouse, J., & Garlough, C. (2019). Whose Lives Matter? Mass Shootings and Social Media Discourses of Sympathy and Policy, 2012-2014. Journal of Computer-Mediated Communication. https://doi.org/10.1093/jcmc/zmz009  -->
 <!-- Wells, C., Zhang, Y., Lukito, J. & Pevehouse, J. (2019). The formation of attentive publics in the hybrid media system: How Donald Trump assembled his amplification machine. Mass Communication & Society. https://doi:10.1080/15205436.2019.1690664 -->

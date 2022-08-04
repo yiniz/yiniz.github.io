@@ -2,12 +2,9 @@ name: "Yini Zhang"
 output_dir: "."
 navbar:
   title: "Yini Zhang"
-  left:
-    - text: "Research"
-      href: research.html
-    # - text: "News"
-    #   href: news.html     
-    #   
+  # left:
+  #   - text: "Research"
+  #     href: research.html
     
   right:
     - icon: fa-envelope fa-lg
