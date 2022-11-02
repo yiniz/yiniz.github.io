@@ -6,7 +6,7 @@
 
 I'm an assistant professor in the [Department of Communication](http://www.buffalo.edu/cas/communication.html) at the University at Buffalo (some people prefer SUNY-Buffalo). I graduated with a Ph.D. in mass communication from the [School of Journalism & Mass Communication at the University of Wisconsin-Madison](https://journalism.wisc.edu). 
 
-I study the processes and consequences of (mostly political) communication. My research program centers around three questions at three different levels: 1) within social media, how people express themselves and interact with one another, 2) as an ecosystem, how social media platforms relate to each other in term of the flow of information and ideas, and 3) beyond social media, what influences and is influenced by social media activity. With these three lines of inquiry, I hope to explore the nature and dynamics of public attention, opinion expression, and information sharing on social media and their implications for journalism and democracy.
+I study the processes and consequences of (mostly political) communication. My research program centers around three questions: 1) within social media, how people express themselves and interact with each other, 2) as an ecosystem, how social media platforms relate to one another in terms of the flow of information, and 3) beyond social media, what can influence and be influenced by communication and interaction on social media. With these three lines of inquiry, I hope to explore the nature and dynamics of public attention, opinion expression, and information sharing on social media and their implications for journalism and democracy.
 
 I have written academic articles about how social media actors assemble their followings, how social media amplify obscure actors and peripheral groups, and how social media public opinion can be imagined and measured. The topics of those articles range from mass shootings and gun control, immigration, the #MeToo movement, Donald Trump's social media following, QAnon, to the Russian IRA disinformation campaign. Here's a link to [my Google Scholar](https://scholar.google.com/citations?user=OQqFZoEAAAAJ&hl=en).
 
@@ -16,9 +16,9 @@ The methods I use in my research are primarily computational, though I am also f
 
 Apart from doing research, I like playing with my little one (and his friends), hiking, traveling, doing Zumba, cooking comfort food, and watching talk shows, movies, and TV series. I used to be a big fan of classical and rock music, but as time goes by I find myself gravitating toward podcasts, something I enjoy listening to during my daily commute. 
 
-**My dissertation won an award :) A summary is available [here](files/A Network Approach Summary.pdf).**
+**My dissertation won an award :) [A summary](files/A Network Approach Summary.pdf) is available.**
 
-**I co-founded the Communication and Emerging Media (CEM) lab with my colleagues. We have been doing cool research in the basement of Baldy and on Zoom. Check out our lab website [here](https://cemlab.github.io/).**
+**I co-founded [the Communication and Emerging Media (CEM) lab](https://cemlab.github.io/) with my colleagues. We have been doing cool research in the basement of Baldy and on Zoom.**
 
-**My full CV is available [here](files/Yini_CV_102022.pdf).**
+**My full CV is available [here](files/Zhang_CV_nov22.pdf).**
 
