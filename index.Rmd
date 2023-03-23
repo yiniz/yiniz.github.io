@@ -11,10 +11,12 @@ links:
 output:
   postcards::trestles
 ---
- 
-Hi there! Welcome to this tiny corner of mine on the boundless internet! 
+
+# About Me
 
 I'm an assistant professor in the [Department of Communication](http://www.buffalo.edu/cas/communication.html) at the University at Buffalo (some people prefer SUNY-Buffalo). I graduated with a Ph.D. in mass communication from the [School of Journalism & Mass Communication at the University of Wisconsin-Madison](https://journalism.wisc.edu). 
+
+# Research 
 
 I study the processes and outcomes of (mostly political) communication, with a particular emphasis on social media. Through my research program, I seek to answer three primary questions. First, how do individuals express themselves and interact with each other on social media? Second, how do social media platforms form an ecosystem and relate to one another in terms of information flow? And third, what are the broader implications of communication and interaction on social media for journalism and civic life? With these three lines of inquiry, I hope to explore how emerging communication technologies are shaping the nature and dynamics of public attention, opinion expression, and information sharing, and their larger societal implications.
 
@@ -22,7 +24,11 @@ I have authored academic articles on a variety of topics, such as how social med
 
 The methods I use in my research are primarily computational, though I am also familiar with survey and experimental methods. For my research, I usually collect social media data, conduct automated text analysis using unsupervised and supervised machine learning, perform community detection through various clustering techniques, and run time series modeling. In addition to Twitter, I have expanded my research to other platforms such as Facebook, YouTube, Reddit, Truth Social, and Parler. Besides using existing computational methods, I also develop innovative methods in collaboration with colleagues from statistics and computer science to facilitate communication research. My primary programming language is R, and I have a working knowledge of SPSS, Hadoop, Java, and Python.
 
+# Teaching
+
 I find immense joy in helping students develop their skills and knowledge. During my years at UB, I have had the privilege of teaching a variety of courses, including research methods, communication theory, introduction to mass communication, and social media and society at undergraduate and graduate levels. Receiving heartfelt notes from my students expressing their gratitude and appreciation for my teaching has been truly exhilarating. Their feedback serves as a constant inspiration for me to continually refine and improve my teaching.
+
+# Miscellaneous 
 
 Apart from doing research and teaching, I like playing with my little one (and his friends), traveling, cooking comfort food, and watching talk shows, movies, and TV series. I used to be a big fan of classical and rock music, but as time goes by I find myself gravitating toward podcasts, something I enjoy listening to during my daily commute. 
 
