@@ -18,27 +18,27 @@ I'm an assistant professor in the [Department of Communication](http://www.buffa
 
 # Research 
 
-I study social media, focusing on how social media shapes the information ecology in the context of political communication processes and outcomes. My approach considers both the technological/structural and user aspects of social media. Specifically, my research program is driven by three interlinked questions:
+I study social media, focusing on how it affects the media ecosystem and political communication. My approach considers both the technological/structural and user aspects of social media. Specifically, my research program is driven by three interlinked questions:
 
 + How do social media platforms facilitate communication and interaction on social media? 
-+ How do platforms relate to one another within the social media ecosystem? 
-+ What are the broader implications of the current information ecology for our mediated world and public life? 
++ How do users shape the social media ecosystem and how do they play a role in the larger media ecosystem? 
++ What are the broader implications of the current media ecosystem for our mediated world and public life? 
 
 <!-- I have authored academic articles on a variety of topics, such as how social media actors assemble their followers, how social media amplify obscure actors and peripheral groups, and how social media public opinion can be imagined and measured. My research has explored political issues ranging from mass shootings and gun control, immigration, the #MeToo movement, Donald Trump's social media use, QAnon, to the Russian IRA disinformation campaign. -->
 
-The methods I use in my research are primarily computational. My research often entails several key steps: collecting data from social media platforms (e.g., Twitter, YouTube, and Truth Social), conducting automated text analysis using unsupervised and supervised machine learning, performing community detection through various clustering techniques, and running time series modeling. Besides using existing computational methods, I actively collaborate with colleagues from the fields of statistics and computer science to develop innovative approaches specifically tailored for communication research.
+The methods I use in my research are primarily computational. My research often entails several key steps: collecting data from social media platforms (e.g., Twitter, YouTube, and Truth Social), conducting automated text analysis using unsupervised and supervised machine learning, performing community detection through various clustering techniques, and running time series modeling. Besides using existing computational methods, I actively collaborate with colleagues from the fields of statistics and computer science to develop innovative approaches tailored for communication research.
 
 # Teaching
 
-I find immense joy in helping students develop their skills and knowledge. At UB, I have had the privilege of teaching an array of courses at undergraduate and graduate levels. These include subjects such as social media and society, introduction to mass communication, research methods, and communication theory. The heartfelt notes of gratitude and appreciation from my students are a continuous source of motivation, inspiring me to consistently enhance my teaching methods.
+I find immense joy in helping students develop their skills and knowledge. At UB, I have had the privilege of teaching an array of courses at undergraduate and graduate levels. These include subjects such as social media and society, introduction to mass communication, research methods, and communication theory. The heartfelt notes of gratitude and appreciation from my students are a continuous source of motivation, inspiring me to consistently enhance my teaching.
 
 # Research Lab
 
-In my research lab, [the Communication and Emerging Media (CEM) lab](https://cemlab.github.io/), I lead graduate and undergraduate students at UB and beyond to work on my research projects and help them launch their own projects. We have been doing cool research in the basement of Baldy and on Zoom. Check out our recent publications and on-going work on our lab website.
+In [the Communication and Emerging Media (CEM) lab](https://cemlab.github.io/), I lead graduate and undergraduate students at UB and beyond to work on my research projects and help them launch their own projects. We have been doing cool research in the basement of Baldy and on Zoom. Check out our recent publications and on-going work on our lab website.
 
 # Miscellaneous 
 
-Beyond my passion for research and teaching, I like playing with my little one (and his friends), traveling, cooking comfort food, and watching talk shows, movies, and TV series. I used to be a big fan of classical and rock music, but as time goes by I find myself gravitating toward the world of podcasts, something I enjoy listening to during my daily commute. I'm continually on the lookout for podcast recommendations!
+Beyond my passion for research and teaching, I like playing with my little one (and his friends). I used to be a big fan of classical and rock music, but as time goes by I find myself gravitating toward the world of podcasts, something I enjoy listening to during my daily commute. I'm continually on the lookout for podcast recommendations!
 
 My dissertation won an award from the Political Communication Division of the American Political Science Association (APSA). [A summary](files/A Network Approach Summary.pdf) is available.
 
