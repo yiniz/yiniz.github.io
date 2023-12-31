@@ -1,6 +1,6 @@
 ---
 title: "Yini Zhang"
-image: "images/zhang.png"
+image: "images/headshot2024.jpg"
 links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=OQqFZoEAAAAJ&hl=en"
