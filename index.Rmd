@@ -20,8 +20,8 @@ I'm an assistant professor in the [Department of Communication](http://www.buffa
 
 My research is driven by one core question: How do certain issues and actors capture attention and wield influence in an era of information overload? My approach considers both the technological/structural and user aspects of media, including social media and AI. Specifically, my research program is driven by three interlinked questions:
 
-+ How attention coalesces around key actors on social media? 
-+ How attention and information flow across the larger media ecosystem? 
++ How does attention coalesce around certain issues and actors on social media? 
++ How do attention and information flow across the larger media ecosystem? 
 + What are the broader implications of the current media ecosystem for public life? 
 
 <!-- I have authored academic articles on a variety of topics, such as how social media actors assemble their followers, how social media amplify obscure actors and peripheral groups, and how social media public opinion can be imagined and measured. My research has explored political issues ranging from mass shootings and gun control, immigration, the #MeToo movement, Donald Trump's social media use, QAnon, to the Russian IRA disinformation campaign. -->
