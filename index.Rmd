@@ -50,7 +50,7 @@ Student feedback and notes of appreciation continually motivate me to refine my 
 
 # Research Lab
 
-In [the Communication and Emerging Media (CEM) lab](https://cemlab.github.io/), I work with graduate and undergraduate students at UB and partner institution on ongoing research projects and help them launch their own independent work. We have been doing some really cool research. You can find recent publications, current projects, and lab members and alums on the CEM Lab website.
+In the [Communication and Emerging Media (CEM) lab](https://cemlab.github.io/), I work with graduate and undergraduate students at UB and partner institution on ongoing research projects and help them launch their own independent work. We have been doing some really cool research. You can find recent publications, current projects, and lab members and alums on the CEM Lab website.
 
 # Miscellaneous 
 
@@ -58,5 +58,5 @@ Beyond research and teaching, I spend much of my time playing with my two kids. 
 
 My dissertation won an award from the Political Communication Division of the American Political Science Association (APSA). A brief summary is available [here](files/A Network Approach Summary.pdf).
 
-My full CV is available [here](files/Yini_ZHANG_Sep_2025.pdf).
+My full CV is available [here](files/YINI_ZHANG_Nov_2025.pdf).
 
