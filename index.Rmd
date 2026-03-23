@@ -16,7 +16,7 @@ output:
 
 # About
 
-I'm an assistant professor in the [Department of Communication](http://www.buffalo.edu/cas/communication.html) at the University at Buffalo (SUNY-Buffalo). I received my Ph.D. in communication from the [School of Journalism & Mass Communication at the University of Wisconsin-Madison](https://journalism.wisc.edu). 
+I'm an Assistant Professor in the [Department of Communication at the University at Buffalo (SUNY-Buffalo)](http://www.buffalo.edu/cas/communication.html). I received my Ph.D. in Communication from the [School of Journalism & Mass Communication at the University of Wisconsin-Madison](https://journalism.wisc.edu). 
 
 # Research 
 
@@ -24,22 +24,22 @@ My research is driven by a core question: How do certain issues and actors captu
 
 Three interlinked questions guide my work:
 
-+ How does attention coalesce around specific issues and actors on social media?
-+ How do attention and information flow across the broader media ecosystem?
-+ What are the implications of the current media environment for democratic life and public discourse?
++ How does attention coalesce around specific issues and actors on social media, and how does information flow across the broader media ecosystem?
++ How do people make sense of communication technologies, and what shapes their trust or distrust of them?
++ What are the implications of the current media environment for politics and society?
 
 Methodologically, my work is primarily computational. Typical projects involve:
 
 + Collecting large-scale data from social media platforms (e.g., Twitter/X, YouTube, Truth Social)
-+ Conducting automated text analysis using unsupervised and supervised machine learning
-+ Detecting communities through clustering and network analysis
-+ Modeling temporal dynamics with time series methods.
++ Conducting automated text analysis using machine learning and large language models
++ Detecting communities through network analysis
++ Modeling temporal dynamics with time series methods
 
-In addition to using existing techniques, I collaborate with colleagues in statistics and computer science to develop methods tailored to questions in communication research.
+In addition to using existing techniques, I collaborate with colleagues from other disciplines to develop methods tailored to questions in communication research.
 
 # Teaching
 
-I find immense joy in helping students develop their skills and knowledge. At UB, I have taught undergraduate and graduate courses on:
+I find genuine joy in helping students build their skills and knowledge. At UB, I have taught undergraduate and graduate courses on:
 
 + Social media and society
 + Communication theory
@@ -50,13 +50,13 @@ Student feedback and notes of appreciation continually motivate me to refine my 
 
 # Research Lab
 
-In the [Communication and Emerging Media (CEM) lab](https://cemlab.github.io/), I work with graduate and undergraduate students at UB and partner institution on ongoing research projects and help them launch their own independent work. We have been doing some really cool research. You can find recent publications, current projects, and lab members and alums on the CEM Lab website.
+In the [Communication and Emerging Media (CEM) lab](https://cemlab.github.io/), I collaborate with graduate and undergraduate students at UB and partner institution on ongoing research projects, while also supporting them in developing and launching their own independent work. Recent publications, current projects, and information about lab members and alumni are available on the CEM Lab website.
 
 # Miscellaneous 
 
-Beyond research and teaching, I spend much of my time playing with my two kids. I used to be a fan of classical and rock music; these days, I am more likely to be immersed in podcasts during my commute. I am always happy to receive thoughtful podcast recommendations.
+Outside of research and teaching, I spend much of my time with my two kids. I used to be a fan of classical and rock music; these days, I am more likely to listen to podcasts during my commute. Recommendations are always welcome.
 
 My dissertation won an award from the Political Communication Division of the American Political Science Association (APSA). A brief summary is available [here](files/A Network Approach Summary.pdf).
 
-My full CV is available [here](files/YINI_ZHANG_Nov_2025.pdf).
+My full CV is available [here](files/YINI_ZHANG_2026.pdf).
 
