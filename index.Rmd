@@ -12,7 +12,7 @@ output:
 ---
 
 
-I'm an Associate Professor in the [Department of Communication at the University at Buffalo (SUNY-Buffalo)](http://www.buffalo.edu/cas/communication.html). I received my Ph.D. in Communication from the [School of Journalism & Mass Communication at the University of Wisconsin-Madison](https://journalism.wisc.edu). 
+I'm an Associate Professor in the [Department of Communication at the University at Buffalo (SUNY-Buffalo)](http://www.buffalo.edu/cas/communication.html). My research and teaching focus on the evolving media landscape and information environment, particularly social media and AI.
 
 # Research 
 
@@ -36,5 +36,5 @@ I find genuine joy in helping students develop their knowledge and skills. Becau
 
 The [Communication and Emerging Media (CEM) lab](https://cemlab.github.io/) is both a collaborative research space and a learning environment. I work closely with graduate and undergraduate students at UB and UConn on ongoing research projects, while mentoring them as they develop their research skills, pursue their own ideas, and lead independent projects. Recent publications, current projects, and information about lab members and alumni can be found on the CEM Lab website.
 
-My full CV is available [here](files/YINI_ZHANG_2026.pdf).
+My full CV is available [here](files/YINI_ZHANG_CV_2026.pdf).
 
