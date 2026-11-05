@@ -1,0 +1,28 @@
+/* Circular headshot on both desktop and mobile layouts.
+   The source photo is landscape, so equal width and height are essential. */
+img.rounded[role="img"] {
+  width: 15rem;
+  height: 15rem;
+  max-width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 50% !important;
+  object-fit: cover;
+  object-position: center;
+  display: inline-block;
+}
+
+/* Optional: slightly soften the overall look */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.6;
+}
+
+/* Optional: slightly nicer link styling */
+a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+a:hover {
+  border-bottom-color: rgba(0, 0, 0, 0.4);
+}

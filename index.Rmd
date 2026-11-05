@@ -1,0 +1,40 @@
+---
+title: "Yini Zhang"
+image: "images/headshot2024.jpg"
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=OQqFZoEAAAAJ&hl=en"
+  - label: Email
+    url: "mailto:yzhang20@buffalo.edu"
+output:
+  postcards::trestles:
+    css: "custom.css"
+---
+
+
+I'm an Associate Professor in the [Department of Communication at the University at Buffalo (SUNY-Buffalo)](http://www.buffalo.edu/cas/communication.html). I received my Ph.D. in Communication from the [School of Journalism & Mass Communication at the University of Wisconsin-Madison](https://journalism.wisc.edu). 
+
+# Research 
+
+My research examines how communication technologies shape the ways influence is built and exercised. I focus on social media and AI, studying how actors gain public attention and how people evaluate and respond to sources of influence.
+
+On social media, I examine how online networks and amplification mechanisms shape whose voices are heard and which narratives gain traction across contexts such as elite communication, online activism, and the spread of dis/misinformation. I trace how attention develops and moves across social and news media, examining its consequences for politics and society.
+
+Generative AI extends this line of research in two directions. It gives actors new tools to create content and shape attention and engagement. It can also act as a communicator, influencing people through the information and advice it offers and the relationships they form with it. I study both how actors use AI to reach audiences and how people make sense of AI itself, including how they assess its capabilities, evaluate its uses, and judge its trustworthiness.
+
+# Teaching
+
+I find genuine joy in helping students develop their knowledge and skills. Because communication and media are integral to everyday life, I encourage students to draw on their own experiences and observations to enrich and deepen their learning. I also bring real-world cases into the classroom to make abstract concepts more accessible and engaging. Ultimately, my goal is to help students make meaningful connections between what they learn, what they observe, and what they do. At the University at Buffalo, I have taught undergraduate and graduate courses on:
+
++ Social Media and Society
++ AI and Society
++ Communication Theory
++ Research Methods
++ Introduction to Mass Communication
+
+# Research Lab
+
+The [Communication and Emerging Media (CEM) lab](https://cemlab.github.io/) is both a collaborative research space and a learning environment. I work closely with graduate and undergraduate students at UB and UConn on ongoing research projects, while mentoring them as they develop their research skills, pursue their own ideas, and lead independent projects. Recent publications, current projects, and information about lab members and alumni can be found on the CEM Lab website.
+
+My full CV is available [here](files/YINI_ZHANG_2026.pdf).
+
